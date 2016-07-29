@@ -1,4 +1,4 @@
-# Performance-Day-2016
+# Performance Day 2016
 
 This repository contains prove of concepts about the technologies selected to teach in the next Performance Day.
 
@@ -12,7 +12,7 @@ SDK for developing native and progressive web apps
 
 http://ionicframework.com/
 
-### Reference documents:
+### Documents:
 
 - Progressive Web Apps:
 
