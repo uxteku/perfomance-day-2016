@@ -1,6 +1,6 @@
 # Performance Day 2016
 
-This repository contains prove of concepts about the technologies selected to teach in the next Performance Day.
+This repository contains prove of concepts about the technologies selected to teach in the next Performance Day
 
 ### Angular 2
 Second version of the structural framework for dynamic web apps
